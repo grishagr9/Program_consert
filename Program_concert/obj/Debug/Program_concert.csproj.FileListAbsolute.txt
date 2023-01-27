@@ -1,0 +1,12 @@
+C:\Users\Grisha\source\repos\Program_concert\Program_concert\bin\Debug\Program_concert.exe.config
+C:\Users\Grisha\source\repos\Program_concert\Program_concert\bin\Debug\Program_concert.exe
+C:\Users\Grisha\source\repos\Program_concert\Program_concert\bin\Debug\Program_concert.pdb
+C:\Users\Grisha\source\repos\Program_concert\Program_concert\obj\Debug\Program_concert.csproj.AssemblyReference.cache
+C:\Users\Grisha\source\repos\Program_concert\Program_concert\obj\Debug\Program_concert.csproj.SuggestedBindingRedirects.cache
+C:\Users\Grisha\source\repos\Program_concert\Program_concert\obj\Debug\Program_concert.Form1.resources
+C:\Users\Grisha\source\repos\Program_concert\Program_concert\obj\Debug\Program_concert.Properties.Resources.resources
+C:\Users\Grisha\source\repos\Program_concert\Program_concert\obj\Debug\Program_concert.csproj.GenerateResource.cache
+C:\Users\Grisha\source\repos\Program_concert\Program_concert\obj\Debug\Program_concert.csproj.CoreCompileInputs.cache
+C:\Users\Grisha\source\repos\Program_concert\Program_concert\obj\Debug\Program_concert.exe
+C:\Users\Grisha\source\repos\Program_concert\Program_concert\obj\Debug\Program_concert.pdb
+C:\Users\Grisha\source\repos\Program_concert\Program_concert\obj\Debug\Program_concert.CreatorForm.resources
